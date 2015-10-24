@@ -30,4 +30,14 @@ Et bien ! dansez maintenant.
 
 
 
+(1) Jean-Henri Fabre (1823-1915) dans ses "Souvenirs entomologiques" relève les erreurs de L.F. concernant la cigale : elle ne dispose pour s'alimenter que d'un suçoir et n'a rien à faire de mouches ou de vermisseaux.
+Il y a d'autres fantaisies : La cigale meurt à la fin de l'été et ne peut donc crier famine quand la bise souffle.
+La fourmi, qui dort en hiver dans sa fourmilière ne peut l'entendre ; d'autre part, elle est carnivore et n'amasse pas le grain...
+
+"La Fontaine est un naturaliste plein de fantaisie, sans souci de la vérité [...]. Mais [...], c'est un peintre animalier de grande valeur." (René Bray Les "Fables" de L.F.)
+
+(2) L'août est la "moisson qui se fait durant le mois d'août" (Richelet)
+(3) comprendre qu'elle n'a pas ce défaut : elle est tellement économe que la bienfaisance fait partie du gaspillage.
+(4) à l'époque, ce féminin n'est utilisé que dans le burlesque, en riant.
+
 
