@@ -2,42 +2,15 @@
 MOOC OpenClassRoom Git/GitHub
 
 
+Bonjour,
 
-LA CIGALE ET LA FOURMI (*)
+Ce dossier contient quelques fichiers en lien avec Jean de la Fontaine tel que:
 
-La Cigale, ayant chanté
-                  Tout l'été,
-Se trouva fort dépourvue
-Quand la bise fut venue.
-Pas un seul petit morceau
-De mouche ou de vermisseau (1).
-Elle alla crier famine
-Chez la Fourmi sa voisine,
-La priant de lui prêter
-Quelque grain pour subsister
-Jusqu'à la saison nouvelle.
-Je vous paierai, lui dit-elle,
-Avant l'août (2), foi d'animal,
-Intérêt et principal.
-La Fourmi n'est pas prêteuse ;
-C'est là son moindre défaut (3).
-Que faisiez-vous au temps chaud ?
-Dit-elle à cette emprunteuse (4).
-Nuit et jour à tout venant
-Je chantais, ne vous déplaise.
-Vous chantiez ? j'en suis fort aise :
-Et bien ! dansez maintenant.
+- Fables
+- Projet de site web
+- Autres
 
+Le tout est destiné à apprendre à manipuler Git et GitHub dans le cadre du cours OpenClassRoom "Gérer son code avec Git et GitHub".
 
-
-(1) Jean-Henri Fabre (1823-1915) dans ses "Souvenirs entomologiques" relève les erreurs de L.F. concernant la cigale : elle ne dispose pour s'alimenter que d'un suçoir et n'a rien à faire de mouches ou de vermisseaux.
-Il y a d'autres fantaisies : La cigale meurt à la fin de l'été et ne peut donc crier famine quand la bise souffle.
-La fourmi, qui dort en hiver dans sa fourmilière ne peut l'entendre ; d'autre part, elle est carnivore et n'amasse pas le grain...
-
-"La Fontaine est un naturaliste plein de fantaisie, sans souci de la vérité [...]. Mais [...], c'est un peintre animalier de grande valeur." (René Bray Les "Fables" de L.F.)
-
-(2) L'août est la "moisson qui se fait durant le mois d'août" (Richelet)
-(3) comprendre qu'elle n'a pas ce défaut : elle est tellement économe que la bienfaisance fait partie du gaspillage.
-(4) à l'époque, ce féminin n'est utilisé que dans le burlesque, en riant.
-
+Merci d'avance pour vos corrections.
 
